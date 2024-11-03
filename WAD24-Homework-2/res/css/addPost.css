@@ -1,1 +1,33 @@
+.inputArea {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    margin-top: 30px;
+    min-height: 120px;
+    resize: vertical;
+}
+
+::file-selector-button {
+    margin: 30px auto;
+    padding: 3px;
+    background-color: gray;
+    cursor: pointer;
+}
+
+.createPostButton {
+    margin: 30px auto;
+    background-color: rgb(44, 44, 111);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.createPostButton:hover {
+    background-color: orange;
+}
 
