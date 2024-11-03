@@ -1,0 +1,88 @@
+
+header a + div {
+    display: inline-block;
+    font-size: 1.0rem;
+    user-select: none;
+}
+
+
+main {
+    margin-top: 1.0rem;
+    display: flex;
+    justify-content: center;
+    color: #333;
+}
+
+
+.sideBlock {
+    background-color: var(--greyMain);
+}
+
+
+
+.postHeader {
+    margin-bottom: 1.0rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.postHeader a ~ div {
+    font-size: 1.0rem;
+}
+
+
+.userIcon {
+	display: block;
+    width: 55px;
+    height: 55px;
+	margin-right: 1rem;
+    border-radius: 15px;
+    background-image: url("../images/profile.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+	    cursor: pointer;
+}
+
+
+
+
+.likeBtn {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+    background-color: inherit;
+    background-image: url("../images/like.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    transform: scale(1);
+    transition: transform 0.1s;
+}
+
+
+.likeBtn:active {
+    transform: scale(1.0);
+}
+
+
+footer {
+    margin-top: 1.0rem;
+    padding: 1rem;
+    border-radius: 20px;
+    background-color: var(--greyMain);
+    font-size: .75rem;
+    text-align: center;
+}
+
+
+@media (max-width: 500px) {
+    header a, .header a + div {
+        font-size: 1rem;
+    }
+    #loginBtn {
+        width: 50px;
+        height: 50px;
+    }
+}
