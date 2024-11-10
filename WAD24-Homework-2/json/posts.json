@@ -1,3 +1,151 @@
 [
+    {
+        "create_time":  {
+            "date": "Nov 1, 2024",
+            "time": "11:11"
+        },
+        "author":{
+            "firstname": "Donald",
+            "lastname": "Trump"
+        },
+        "content": {
+            "post_text": "Let's make America Great again!",
+            "post_image": "https://i.ebayimg.com/images/g/~gYAAOSwD0JkiUZ7/s-l1600.webp"
+        }
+    },
 
+    {
+        "create_time":  {
+            "date": "Oct 31, 2024",
+            "time": "11:22"
+        },
+        "author":{
+            "firstname": "Kamala",
+            "lastname": "Harris"
+        },
+        "content": {
+            "post_text": "Let's rise taxes!",
+            "post_image": "https://www.whitehouse.gov/wp-content/uploads/2021/04/V20210305LJ-0043-cropped.jpg?resize=350,265"
+        }
+    },
+
+    {
+        "create_time":  {
+            "date": "Oct 30, 2024",
+            "time": "11:33"
+        },
+        "author":{
+            "firstname": "Joe",
+            "lastname": "Biden"
+        },
+        "content": {
+            "post_text": "Zzz!"
+        }
+    },
+
+    {
+        "create_time":  {
+            "date": "Oct 25, 2024",
+            "time": "18:17"
+        },
+        "author":{
+            "firstname": "Barack",
+            "lastname": "Obama"
+        },
+        "content": {
+            "post_text": "I was the 44th president",
+            "post_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg"
+         }
+    },
+
+    {
+        "create_time":  {
+            "date": "Oct 23, 2024",
+            "time": "10:10"
+        },
+        "author":{
+            "firstname": "James",
+            "lastname": "Hetfield"
+        },
+        "content": {
+            "post_text": "Metallica!",
+            "post_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Metallica_March_2024.jpg/300px-Metallica_March_2024.jpg"
+        }
+    },
+
+    {
+        "create_time":  {
+            "date": "Oct 13, 2024",
+            "time": "15:00"
+        },
+        "author":{
+            "firstname": "Hillary",
+            "lastname": "Clinton"
+        },
+        "content": {
+            "post_text": "Elections are ... ",
+            "post_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hillary_Clinton_by_Gage_Skidmore_4_%28cropped%29.jpg/200px-Hillary_Clinton_by_Gage_Skidmore_4_%28cropped%29.jpg"
+
+        }
+    },
+
+    {
+        "create_time":  {
+            "date": "Oct 3, 2024",
+            "time": "18:33"
+        },
+        "author":{
+            "firstname": "Jeremy",
+            "lastname": "Clarkson"
+        },
+        "content": {
+            "post_text": "!!!"
+
+        }
+    },
+
+    {
+        "create_time":  {
+            "date": "Oct 2, 2024",
+            "time": "16:16"
+        },
+        "author":{
+            "firstname": "Joe",
+            "lastname": "Black"
+        },
+        "content": {
+            "post_text": "I am death!"
+
+        }
+    },
+    
+    {
+        "create_time":  {
+            "date": "Sep 2, 2024",
+            "time": "17:17"
+        },
+        "author":{
+            "firstname": "John",
+            "lastname": "Wick"
+        },
+        "content": {
+            "post_text": "Now I think I am back!"  
+        }
+    },
+
+    {
+        "create_time":  {
+            "date": "Sep 1, 2024",
+            "time": "11:11"
+        },
+        "author":{
+            "firstname": "Albert",
+            "lastname": "Einstein"
+        },
+        "content": {
+            "post_text": "I don't have any special gift, I am just curious! ",
+            "post_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg"
+
+        }
+    }
 ]
